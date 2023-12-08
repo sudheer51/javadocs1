@@ -1,0 +1,84 @@
+Resume Preparation:
+
+Experience Summary:
+	Having 5+ years of experience in Automation Testing and Manual Testing. 
+
+	Manual & Automation Testing
+	SKILL SET:
+
+		PROGRAMMING LANG:JAVA
+		SCRIPTING LANG:	       JAVASCRIPT, SHELL SCRIPT
+		SOURCE CODE MANAGEMENT: GITHUB,GIT BASH - [BITBUCKET,GITLAB]
+		CI/CD TOOL: JENKINS [BAMBOO] 
+		BUILD AUTOMATION TOOL : MAVEN [GRADLE]
+		AUTOMATION TOOLS:	SELENIUM using JAVA,SELENIUM IDE ,SELENIUM GRID 
+		PERFORMANCE TESTING:   JMETER
+		API TESTING TOOLS:	POST MAN,SOAPUI,REST ASSURED API
+		AGILE METHODOLOGY TOOLS :JIRA [RALLY] 
+		OPERATING SYSTEM:	WINDOWS,UNIX
+		DATABASE:		MYSQL
+		
+
+
+
+	5-7 years 
+	4 projects
+MMP:
+		manual and automation
+		writing testcases
+		executing testcases
+		involved in the design of automation framework
+		Automated the test scripts used selenium with java lang
+		Automated the tests using java framework TESTNG.
+		Maintain the code in Github and execute via Jenkins. 
+
+
+JOB SEARCH:
+
+	NO PREFERANCE FOR JOB LOCATION,AUTOMATION/ MANUAL,SALARY
+
+	APPLY FOR ALL THE JOBS: INDEED,LINKEDIN,STACKOVERFLOW,GLASSDOOR,DICE.COM,ZipRecruiter,Elance 
+		RESUME WILL BE SHORTLISTED
+			GET A CALL
+				FIRST ROUND WILL BE SCHEDULED
+					10 QUESTIONS
+						5 QUESTIONS
+
+
+
+10 QUESTIONS :
+		THEORY
+		EXAMPLES
+
+
+JOB SITES:INDEED.COM,STACKOVERFLOW,GLASS DOOR,NAUKRI,MONSTER,CAREERBUILDER
+	   FREE LANCING JOB: ELANCE.COM
+
+	UPLOAD OUR RESUME
+
+		SELECT ALL AND APPLY
+
+
+CONSULTANTS:
+	DISCUSS THE RATE: 50 %
+
+ 
+Work Experience
+IIT Workforce Inc.,                                                                                   Jan 2017 – Oct 2017                            
+Role: Working as a QA Automation Tester.                                    
+Client: North America Med Tech Group
+Project: Manage My Patient (MMP)                                                                            
+MMP: Manage My Patient is a web based healthcare application developed for Doctor’s office to manage their portal. It mainly consists of four different modules namely Patient, Admin, Doctor and Insurance. In Patient Module, a patient can Register, Schedule Appointment and Payment of Fees. In Admin Module, approve the registered patient, capture vitals. As part of Automation team for Patient and Admin module I am responsible for automating the tests for Patient and Admin module.
+Responsibilities:
+•	Followed agile process as part of Project.
+•	Tracked User stories, Tasks, Testcases, Results and Defects in JIRA
+•	Designed Hybrid Framework using Maven, Page Object Model & TestNG.
+•	Automated testcases using Selenium WebDriver and TestNG.
+•	Located web elements using XPath and CSS selectors.
+•	Created and executed test scripts for regression and sanity testing.
+•	Generated logs and reports using TestNG Reports.
+•	Integrated complete automation framework with GitHub and executed the same via Continuous Integration tool - Jenkins.
+•	Environment: JAVA, PHP, Eclipse, Maven, Jenkins, Apache Tomcat, Java Script, HTML, SQL, Selenium,   XML,CSS, Rest Services.
+
+
+
